@@ -1,0 +1,164 @@
+[
+  {
+    "dropbtn_name": "Đặt ăn",
+    "service_list": [
+      {
+        "service": [
+          {
+            "service_title": "Dịch vụ bán trú",
+            "service_name": [
+              {
+                "name_strong": "Dịch vụ bán trú 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ bán trú 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ bán trú 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Nộp học phí",
+            "service_name": [
+              {
+                "name_strong": "Nộp học phí 1 ",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Thông báo học phí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Lịch sử nộp tiền",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Dịch vụ xe đưa đón",
+            "service_name": [
+              {
+                "name_strong": "Dịch vụ xe đưa đón 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 4",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Câu lạc bộ",
+            "service_name": [
+              {
+                "name_strong": "Câu lạc bộ 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Câu lạc bộ 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Câu lạc bộ 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dropbtn_name": "Đồng phục",
+    "service_list": [
+      {
+        "service": [
+          {
+            "service_title": "Dịch vụ bán trú",
+            "service_name": [
+              {
+                "name_strong": "Dịch vụ bán trú 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ bán trú 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ bán trú 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Nộp học phí",
+            "service_name": [
+              {
+                "name_strong": "Nộp học phí 1 ",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Thông báo học phí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Lịch sử nộp tiền",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Dịch vụ xe đưa đón",
+            "service_name": [
+              {
+                "name_strong": "Dịch vụ xe đưa đón 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Dịch vụ xe đưa đón 4",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Câu lạc bộ",
+            "service_name": [
+              {
+                "name_strong": "Câu lạc bộ 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Câu lạc bộ 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Câu lạc bộ 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
