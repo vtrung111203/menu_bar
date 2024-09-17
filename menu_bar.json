@@ -191,6 +191,23 @@
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
               }
             ]
+          },
+          {
+            "service_title": "Đăng kí xe bus",
+            "service_name": [
+              {
+                "name_strong": "Đơn đăng kí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Cam kết" ,
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "name_strong": "Lịch sử nộp tiền xe bus",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
           }
         ]
       }
