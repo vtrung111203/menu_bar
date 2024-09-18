@@ -201,17 +201,20 @@
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Nộp học phí",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Thông báo học phí" ,
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Lịch sử nộp tiền",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               }
             ]
           }
