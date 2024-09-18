@@ -220,57 +220,51 @@
     ]
   },
   {
-    "dropbtn_name": "Đặt xe bus",
+    "dropbtn_name": "Xe bus",
     "service_list": [
       {
         "service": [
           {
-            "service_title": "Dịch vụ xe bus",
+            "service_title": "Đăng kí xe bus",
             "service_name": [
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 1",
+                "name_strong": "Đơn đăng kí",
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ xe bus 2",
+                "name_strong": "Cam kết" ,
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 3",
+                "name_strong": "Lịch sử nộp tiền xe bus",
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               }
             ]
           },
           {
-            "service_title": "Dịch vụ Đồng phục 3",
+            "service_title": "Đăng kí xe bus",
             "service_name": [
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 3",
+                "name_strong": "Đơn đăng kí",
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 3",
+                "name_strong": "Cam kết" ,
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               },
               {
                 "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 3",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ Đồng phục 3",
+                "name_strong": "Lịch sử nộp tiền xe bus",
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
                 "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
               }
@@ -279,5 +273,5 @@
         ]
       }
     ]
-  },
+  }
 ]
