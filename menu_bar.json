@@ -201,24 +201,26 @@
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Nộp học phí",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
               },
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Thông báo học phí" ,
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
               },
               {
                 "service_link":"https://school.fts.com.vn",
                 "name_strong": "Lịch sử nộp tiền",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
               }
             ]
           }
-        ]
+        ],
+        "menu_bar_service_name_contact": "Học phí",
+        "menu_bar_service_img": "https://uniform.vinschool.edu.vn/images/1000/DSC_1628.jpg",
+        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
+        "menu_bar_suppor_button": "Hỗ trợ về học phí",
+        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
       }
     ]
   },
