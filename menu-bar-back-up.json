@@ -253,6 +253,16 @@
           }
         ]
       }
+    ], 
+    "service_support": 
+    [
+      {
+        "menu_bar_service_name_contact": "Xe bus",
+        "menu_bar_service_img": "https://xeanhthu.vn/wp-content/uploads/2020/02/thue-xe-dua-don-hoc-sinh.jpg",
+        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí xe bus đưa đón học sinh tiện lợi sử dụng",
+        "menu_bar_suppor_button": "Hỗ trợ về đăng kí dịch vụ xe bus",
+        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
+      }
     ]
   },
   {
