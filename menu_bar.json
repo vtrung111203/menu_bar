@@ -1,5 +1,45 @@
 [
   {
+    "dropbtn_name": "Học phí",
+    "service_list": 
+    [
+      {
+        "service": [
+          {
+            "service_title": "Cổng nộp học phí",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Nộp học phí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Thông báo học phí" ,
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Lịch sử nộp tiền",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          }
+        ]
+      }
+    ], 
+    "service_support": 
+    [
+      {
+        "menu_bar_service_name_contact": "Học phí",
+        "menu_bar_service_img": "https://uniform.vinschool.edu.vn/images/1000/DSC_1628.jpg",
+        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
+        "menu_bar_suppor_button": "Hỗ trợ về học phí",
+        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
+      }
+    ]
+  },
+  {
     "dropbtn_name": "Đặt ăn",
     "service_list": [
       {
@@ -188,16 +228,6 @@
           }
         ]
       }
-    ],
-    "service_support": 
-    [
-      {
-        "menu_bar_service_name_contact": "Đồng phục",
-        "menu_bar_service_img": "https://wego.net.vn/wp-content/uploads/2022/03/bi-quyet-dat-dong-phuc-dep-chat-luong-don-gian-chuan-xac-5.jpg",
-        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
-        "menu_bar_suppor_button": "Hỗ trợ về đồng phục",
-        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
-      }
     ]
   },
   {
@@ -253,16 +283,6 @@
           }
         ]
       }
-    ], 
-    "service_support": 
-    [
-      {
-        "menu_bar_service_name_contact": "Xe bus",
-        "menu_bar_service_img": "https://xeanhthu.vn/wp-content/uploads/2020/02/thue-xe-dua-don-hoc-sinh.jpg",
-        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí xe bus đưa đón học sinh tiện lợi sử dụng",
-        "menu_bar_suppor_button": "Hỗ trợ về đăng kí dịch vụ xe bus",
-        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
-      }
     ]
   },
   {
@@ -298,7 +318,7 @@
     [
       {
         "menu_bar_service_name_contact": "Học phí",
-        "menu_bar_service_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/menu_bar_service_image.jpg",
+        "menu_bar_service_img": "https://uniform.vinschool.edu.vn/images/1000/DSC_1628.jpg",
         "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
         "menu_bar_suppor_button": "Hỗ trợ về học phí",
         "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
