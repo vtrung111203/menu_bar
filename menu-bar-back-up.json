@@ -191,6 +191,35 @@
     ]
   },
   {
+    "dropbtn_name": "Học phí",
+    "service_list": [
+      {
+        "service": [
+          {
+            "service_title": "Cổng nộp học phí",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Nộp học phí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Thông báo học phí" ,
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Lịch sử nộp tiền",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "dropbtn_name": "Xe bus",
     "service_list": [
       {
@@ -244,35 +273,5 @@
         ]
       }
     ]
-  },
-  {
-    "dropbtn_name": "Học phí",
-    "service_list": 
-    [
-      {
-        "service": [
-          {
-            "service_title": "Cổng nộp học phí",
-            "service_name": [
-              {
-                "service_link": "https://school.fts.com.vn",
-                "name_strong": "Nộp học phí",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
-              },
-              {
-                "service_link": "https://school.fts.com.vn",
-                "name_strong": "Thông báo học phí",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
-              },
-              {
-                "service_link": "https://school.fts.com.vn",
-                "name_strong": "Lịch sử nộp tiền",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  } 
+  }
 ]
