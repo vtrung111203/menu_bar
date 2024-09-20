@@ -188,6 +188,16 @@
           }
         ]
       }
+    ],
+    "service_support": 
+    [
+      {
+        "menu_bar_service_name_contact": "Đồng phục",
+        "menu_bar_service_img": "https://wego.net.vn/wp-content/uploads/2022/03/bi-quyet-dat-dong-phuc-dep-chat-luong-don-gian-chuan-xac-5.jpg",
+        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
+        "menu_bar_suppor_button": "Hỗ trợ về đồng phục",
+        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
+      }
     ]
   },
   {
