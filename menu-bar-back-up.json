@@ -1,132 +1,16 @@
 [
   {
     "dropbtn_name": "Đặt ăn",
-    "service_list": [
-      {
-        "service": [
-          {
-            "service_title": "Dịch vụ bán trú",
-            "service_name": [
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": " ",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ bán trú 2",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ bán trú 3",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              }
-            ]
-          },
-          {
-            "service_title": "Nộp học phí",
-            "service_name": [
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Nộp học phí 1 ",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Thông báo học phí",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Lịch sử nộp tiền",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              }
-            ]
-          },
-          {
-            "service_title": "Dịch vụ xe đưa đón",
-            "service_name": [
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ xe đưa đón 1",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ xe đưa đón 2",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ xe đưa đón 3",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Dịch vụ xe đưa đón 4",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              }
-            ]
-          },
-          {
-            "service_title": "Câu lạc bộ",
-            "service_name": [
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Câu lạc bộ 1",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Câu lạc bộ 2",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              },
-              {
-                "service_link":"https://school.fts.com.vn",
-                "name_strong": "Câu lạc bộ 3",
-                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
-                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "dropbtn_name": "Đồng phục",
-    "service_support": 
-    [
-      {
-        "menu_bar_service_name_contact": "Đồng phục",
-        "menu_bar_service_img": "https://wego.net.vn/wp-content/uploads/2022/03/bi-quyet-dat-dong-phuc-dep-chat-luong-don-gian-chuan-xac-5.jpg",
-        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
-        "menu_bar_suppor_button": "Hỗ trợ về đồng phục",
-        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
-      }
-    ],"one_column_menu":
+    "one_column_menu":
     [
       {
         "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_1.png",
-        "one_col_menu_item_name": "E-magazine",
+        "one_col_menu_item_name": "Đặt ăn bán trú",
         "one_col_menu_item_link": ""
       },
       {
         "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_2.png",
-        "one_col_menu_item_name": "Blog",
+        "one_col_menu_item_name": "Đăng kí bán trú",
         "one_col_menu_item_link": ""
       },
       {
@@ -138,6 +22,100 @@
         "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_3%20(1).png",
         "one_col_menu_item_name": "Báo cáo ngành",
         "one_col_menu_item_link": ""
+      }
+    ]
+  },
+  {
+    "dropbtn_name": "Đồng phục",
+    "service_list": [
+      {
+        "service": [
+          {
+            "service_title": "Dịch vụ Đồng phục",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 1",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 2",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              }
+            ]
+          },
+          {
+            "service_title": "Dịch vụ Đồng phục 2",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 2 ",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 2 ",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 2 ",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              }
+            ]
+          },
+          {
+            "service_title": "Dịch vụ Đồng phục 3",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Dịch vụ Đồng phục 3",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/main/shopping_cart.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "service_support": 
+    [
+      {
+        "menu_bar_service_name_contact": "Đồng phục",
+        "menu_bar_service_img": "https://wego.net.vn/wp-content/uploads/2022/03/bi-quyet-dat-dong-phuc-dep-chat-luong-don-gian-chuan-xac-5.jpg",
+        "menu_bar_service_name_detail": "Hệ thống đặt và quản lí cấp phát đồng phục tiện lợi sử dụng",
+        "menu_bar_suppor_button": "Hỗ trợ về đồng phục",
+        "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
       }
     ]
   },
