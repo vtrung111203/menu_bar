@@ -307,22 +307,22 @@
     "one_column_menu":
     [
       {
-        "one_col_menu_item_img": "",
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_1.png",
         "one_col_menu_item_name": "E-magazine",
         "one_col_menu_item_link": ""
       },
       {
-        "one_col_menu_item_img": "",
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_2.png",
         "one_col_menu_item_name": "Blog",
         "one_col_menu_item_link": ""
       },
       {
-        "one_col_menu_item_img": "",
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_3%20(1).png",
         "one_col_menu_item_name": "Thông cáo",
         "one_col_menu_item_link": ""
       },
       {
-        "one_col_menu_item_img": "",
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_3%20(1).png",
         "one_col_menu_item_name": "Báo cáo ngành",
         "one_col_menu_item_link": ""
       }
