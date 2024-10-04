@@ -117,6 +117,28 @@
         "menu_bar_suppor_button": "Hỗ trợ về đồng phục",
         "menu_bar_phone_number": "Hotline nhà trường: 0123456789"
       }
+    ],"one_column_menu":
+    [
+      {
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_1.png",
+        "one_col_menu_item_name": "E-magazine",
+        "one_col_menu_item_link": ""
+      },
+      {
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_2.png",
+        "one_col_menu_item_name": "Blog",
+        "one_col_menu_item_link": ""
+      },
+      {
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_3%20(1).png",
+        "one_col_menu_item_name": "Thông cáo",
+        "one_col_menu_item_link": ""
+      },
+      {
+        "one_col_menu_item_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/one_col_menu_item_icon_3%20(1).png",
+        "one_col_menu_item_name": "Báo cáo ngành",
+        "one_col_menu_item_link": ""
+      }
     ]
   },
   {
