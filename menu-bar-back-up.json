@@ -6,7 +6,7 @@
       {
         "service": [
           {
-            "service_title": "Cổng nộp học phí",
+            "service_title": "Nộp học phí",
             "service_name": [
               {
                 "service_link": "https://school.fts.com.vn",
@@ -18,6 +18,26 @@
                 "name_strong": "Thông báo học phí",
                 "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
               },
+              {
+                "service_link": "https://school.fts.com.vn",
+                "name_strong": "Lịch sử nộp tiền",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Thông báo học phí",
+            "service_name": [
+              {
+                "service_link": "https://school.fts.com.vn",
+                "name_strong": "Thông báo học phí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú"
+              }
+            ]
+          },
+          {
+            "service_title": "Lịch sử nộp tiền",
+            "service_name": [
               {
                 "service_link": "https://school.fts.com.vn",
                 "name_strong": "Lịch sử nộp tiền",
@@ -180,7 +200,7 @@
       {
         "service": [
           {
-            "service_title": "Đăng kí xe bus",
+            "service_title": "Dịch vụ bán trú",
             "service_name": [
               {
                 "service_link":"https://school.fts.com.vn",
@@ -203,7 +223,53 @@
             ]
           },
           {
-            "service_title": "Đăng kí xe bus",
+            "service_title": "Đăng kí ăn",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Đơn đăng kí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Cam kết" ,
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Lịch sử nộp tiền xe bus",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              }
+            ]
+          },
+          {
+            "service_title": "Dịch vụ xe đưa đón",
+            "service_name": [
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Đơn đăng kí",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Cam kết" ,
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              },
+              {
+                "service_link":"https://school.fts.com.vn",
+                "name_strong": "Lịch sử nộp tiền xe bus",
+                "detail_p": "Hệ thống đặt và quản lý cấp phát danh sách học sinh bán trú",
+                "service_id_img": "https://raw.githubusercontent.com/vtrung111203/menu_bar/refs/heads/main/shopping_cart.jpg"
+              }
+            ]
+          },
+          {
+            "service_title": "Câu lạc bộ",
             "service_name": [
               {
                 "service_link":"https://school.fts.com.vn",
